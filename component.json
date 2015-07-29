@@ -1,6 +1,6 @@
 {
-    "title": "mock component",
-    "description": "mock",
+    "title": "hello world nodejs",
+    "description": "Hello world component for the elastic.io platform",
     "credentials": {
         "fields": {
             "name": {
