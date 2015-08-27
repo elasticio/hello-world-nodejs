@@ -1,1 +1,0 @@
-require('../entry.js').buildNewAction('Note', exports);
