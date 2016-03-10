@@ -35,7 +35,7 @@ Obviously the naming of your team and repository is entierly upto you and if you
 
 ## File Structure
 
-The structure of **hello-world-nodejs** component is not quite flexible. [elastic.io platform](http://www.elastic.io "elastic.io platform") expects only two files to be present in the main directory. These are the ``component.json`` and ``package.json``. The table below lists the basic structure of the component:
+The structure of **hello-world-nodejs** component is not quite flexible. [elastic.io platform](http://www.elastic.io "elastic.io platform") expects only two files to be present in the main directory. These are the ``component.json`` and ``package.json``. Here is the basic architecture of this component:
 
 File Name | Type | Required | Description
 ---|:---:|:---:|---
