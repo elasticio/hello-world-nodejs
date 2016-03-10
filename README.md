@@ -32,3 +32,17 @@ $ git remote add elasticio your-team@git.elastic.io:your-repository.git
 $ git push elasticio master
 ```
 Obviously the naming of your team and repository is entierly upto you and if you do not put any corresponding naming our system will auto generate it for you but the naming might not entierly correspond to your project requirements.
+
+## File Structure
+
+The structure of **hello-world-nodejs** component is not quite flexible. [elastic.io platform](http://www.elastic.io "elastic.io platform") expects only two files to be present in the main directory. These are the ``component.json`` and ``package.json``. The table below lists the basic structure of the component:
+
+File Name | Type | Required | Description
+---|:---:|:---:|---
+[logo.png](#logo) | image |  | Logo of your component
+**component.json** | JSON | &check; | description of the component structure
+**package.json** | JSON | &check; | description of the package
+verifyCredentials.js | JavaScript |  |  the main function to verify the credentials
+**lib** | directory |  | main component directory - *suggested*
+
+Our documentation on [how to build a component in node.js](http://docs.elastic.io/docs/building-a-component-in-nodejs) has more about each file and their function.
