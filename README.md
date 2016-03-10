@@ -16,8 +16,8 @@ After the registration and opening of the account you must **[upload your SSH Ke
 ## Getting Started
 
 After registration and uploading of your SSH Key you can proceed to deploy it into our system. At this stage we suggest you to:
-* [Create a team](http://docs.elastic.io/docs/teams) to work on your new component. This is not required but will be automatically created using random naming by our system so we suggest you do it to name your team accordingly.
-* [create a repository](http://docs.elastic.io/docs/component-repositories) wher your new component is going to *reside* inside the team that you have just created.
+* [Create a team](http://docs.elastic.io/docs/teams) to work on your new component. This is not required but will be automatically created using random naming by our system so we suggest you name your team accordingly.
+* [Create a repository](http://docs.elastic.io/docs/component-repositories) wher your new component is going to *reside* inside the team that you have just created.
 
 ```bash
 $ git clone https://github.com/elasticio/hello-world-nodejs.git your-repository
