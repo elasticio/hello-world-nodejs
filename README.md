@@ -1,4 +1,6 @@
 # hello-world-nodejs
+
+[![Join the chat at https://gitter.im/elasticio/hello-world-nodejs](https://badges.gitter.im/elasticio/hello-world-nodejs.svg)](https://gitter.im/elasticio/hello-world-nodejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > Hello World Node.js component template for the [elastic.io platform](http://www.elastic.io "elastic.io platform")
 
 This is a component template which we commonly refer as **the first step of the development** for creating a component to deploy into our platform. This component comes with a basic architecture which can be used on our platform. You can clone it and use it. However, **if you plan to deploy it into [elastic.io platform](http://www.elastic.io "elastic.io platform") you must follow sets of instructions to succseed**. 
