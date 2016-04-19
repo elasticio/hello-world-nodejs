@@ -1,6 +1,7 @@
 {
     "title": "hello world nodejs",
     "description": "Hello world component for the elastic.io platform",
+    "docsUrl":"https://github.com/elasticio/hello-world-nodejs",
     "credentials": {
         "fields": {
             "name": {
