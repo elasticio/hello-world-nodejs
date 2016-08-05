@@ -1,6 +1,6 @@
 {
     "name": "hello-world",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "elastic.io hello world component",
     "scripts": {
         "test": "exit 0"
