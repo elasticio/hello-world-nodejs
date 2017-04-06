@@ -11,7 +11,9 @@
     },
     "author": "elastic.io GmbH",
     "license": "BSD-2-Clause",
-
+    "engines": {
+        "node": ">=6"
+    },
     "dependencies": {
         "q": "^1.4.1",
         "elasticio-sailor-nodejs": "2.2.2-dev.1",
