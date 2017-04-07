@@ -16,7 +16,7 @@
     },
     "dependencies": {
         "q": "^1.4.1",
-        "elasticio-sailor-nodejs": "2.0.2-dev.1",
+        "elasticio-sailor-nodejs": "2.0.2-dev.2",
         "elasticio-node": "*"
     }
 }
