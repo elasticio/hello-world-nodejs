@@ -25,10 +25,7 @@
         "updateHello": {
             "main": "./lib/actions/updateHello.js",
             "title": "Update Hello",
-            "metadata": {
-                "in": "./lib/schemas/updateHello.in.json",
-                "out": "./lib/schemas/updateHello.out.json"
-            }
+            "dynamicMetadata": true
         }
     }
 }
